@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+  }
+  
+  header {
+    background-color: #6200ea;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  main {
+    padding: 1rem;
+  }
+  
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  button {
+    cursor: pointer;
+    border: none;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border-radius: 4px;
+    background-color: #6200ea;
+    color: #fff;
+  }
+  
+  button:hover {
+    background-color: #4500b5;
+  }
+  
